@@ -86,17 +86,17 @@ I enjoy turning complex problems into simple, scalable solutions and I consisten
 ---
 # 📊 GitHub Stats:
 
-<!-- Stats Card (Alternative Service) -->
+<!-- Stats Card -->
 ![Vicky's GitHub stats](https://github-stats-alpha.vercel.app/api?username=vickykumar11062&cc=000&tc=fff&ic=fff&bc=000)
 
-<!-- Streak Stats (Working Service) -->
+<!-- Streak Stats -->
 ![Vicky's GitHub Streak](https://streak-stats.demolab.com?user=vickykumar11062&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
-<!-- Activity Graph (Working Service) -->
+<!-- Activity Graph -->
 ![Vicky's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vickykumar11062&theme=github-dark&hide_border=true&area=true)
 
-<!-- Top Languages (Alternative) -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vickykumar11062&theme=dark&layout=compact&hide_border=true)
+<!-- Top Languages -->
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vickykumar11062&theme=dark&layout=compact&hide_border=true)
 
 **Alternative Stats Service (if the above continues to fail):**
 ```md
