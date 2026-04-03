@@ -22,17 +22,8 @@ I enjoy turning complex problems into simple, scalable solutions and I consisten
 
 ---
 
-
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-## 🚀 Current Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=vickykumar11062&theme=radical&hide_border=true)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vickykumar11062&theme=radical&hide_border=true)
 
 ---
 
