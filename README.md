@@ -22,10 +22,6 @@ I enjoy turning complex problems into simple, scalable solutions and I consisten
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vickykumar11062&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -38,25 +34,6 @@ I enjoy turning complex problems into simple, scalable solutions and I consisten
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vickykumar11062&theme=radical&hide_border=true)
 
----
-
-## 💻 Workspace Specs
-
-![Windows](https://img.shields.io/badge/Windows-11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D6?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vicky-kumar-3a4566284/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vickykumar11062)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vickykumar11062003@gmail.com)
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=vickykumar11062&color=blue&style=flat-square)
 ---
 
 ## 🌐 Socials:
