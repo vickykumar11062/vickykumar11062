@@ -84,16 +84,19 @@ I enjoy turning complex problems into simple, scalable solutions and I consisten
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
-
 # 📊 GitHub Stats:
 
-**Note:** If stats images fail to load, the service may be temporarily unavailable. Try again later or use an alternative service.
+<!-- Stats Card (Alternative Service) -->
+![Vicky's GitHub stats](https://github-stats-alpha.vercel.app/api?username=vickykumar11062&cc=000&tc=fff&ic=fff&bc=000)
 
-![Vicky's GitHub stats](https://github-readme-stats.vercel.app/api?username=vickykumar11062&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+<!-- Streak Stats (Working Service) -->
+![Vicky's GitHub Streak](https://streak-stats.demolab.com?user=vickykumar11062&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
-![Vicky's GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=vickykumar11062&theme=dark&hide_border=false)
+<!-- Activity Graph (Working Service) -->
+![Vicky's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vickykumar11062&theme=github-dark&hide_border=true&area=true)
 
-![Vicky's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vickykumar11062&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- Top Languages (Alternative) -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vickykumar11062&theme=dark&layout=compact&hide_border=true)
 
 **Alternative Stats Service (if the above continues to fail):**
 ```md
