@@ -98,6 +98,3 @@ I enjoy turning complex problems into simple, scalable solutions and I consisten
 <!-- Top Languages -->
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vickykumar11062&theme=dark&layout=compact&hide_border=true)
 
-**Alternative Stats Service (if the above continues to fail):**
-```md
-![Vicky's GitHub stats](https://github-stats-alpha.vercel.app/api?username=vickykumar11062)
